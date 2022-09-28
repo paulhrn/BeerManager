@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  UI copy
+
+  Created by p h on 07.09.2022.
+  
+*/
+"searchBarPlaceholder" = "Search...";
+"beerLeft" = "Left";
+"tapToSell" = "Tap beer to sell!";
+"currentIncomeButton" = "Current income";
+"newDayButton" = "New day";
+"currency" = "$";
+"currentIncomeLabel" = "Current income is";
+"newDayLabel" = "Everything's ready for a new day!";
+"saveButton" = "Save";
+"brandPlaceholder" = "Brand";
+"countryPlaceholder" = "Country";
+"pricePlaceholder" = "Price";
+"amountPlaceholder" = "Amount";

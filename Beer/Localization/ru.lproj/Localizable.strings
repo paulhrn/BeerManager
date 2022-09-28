@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  UI copy
+
+  Created by p h on 07.09.2022.
+  
+*/
+"searchBarPlaceholder" = "Искать...";
+"beerLeft" = "Остаток";
+"tapToSell" = "Нажми на пиво, чтобы продать!";
+"currentIncomeButton" = "Текущий доход";
+"newDayButton" = "Новый день";
+"currency" = "₽";
+"currentIncomeLabel" = "Текущий доход";
+"newDayLabel" = "Всё готово для нового дня!";
+"saveButton" = "Сохранить";
+"brandPlaceholder" = "Бренд";
+"countryPlaceholder" = "Страна";
+"pricePlaceholder" = "Цена";
+"amountPlaceholder" = "Количество";
