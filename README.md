@@ -1,4 +1,4 @@
-# BeerManager
+# Beer_App
 This app was created with Realm and it will help you to sell and modify type of beers lol. 
 
 ## Features
